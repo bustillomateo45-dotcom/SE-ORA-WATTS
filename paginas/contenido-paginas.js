@@ -1,0 +1,8 @@
+/* PERSONALIZA AQUÍ el texto y la canción de cada página. */
+window.PAGE_CONTENT = {
+  1:{title:"Lo que fue",text:"Hay personas que llegan a nuestra vida y terminan convirtiéndose en recuerdos difíciles de describir. Tú fuiste una de ellas. No necesito que las cosas vuelvan a ser como antes para reconocer que hubo momentos contigo que siempre voy a recordar con cariño.",audio:"../musica/cancion-1.mp3"},
+  2:{title:"Lo que aprendí",text:"Durante mucho tiempo tuve preguntas que no sabía cómo responder. Hoy entiendo que algunas conversaciones no cambian el pasado, pero sí pueden cambiar la manera en que lo recordamos. Gracias por haberme permitido tener esa conversación contigo.",audio:"../musica/cancion-2.mp3"},
+  3:{title:"Andrea y Watts",text:"Creo que hay una diferencia entre extrañar lo que alguien fue para nosotros y querer conocer a quien esa persona es actualmente. Me enamoré de Andrea y guardo con cariño lo que significó para mí; pero hoy me gustaría conocer a Watts, sin pedirle que vuelva a ser aquella persona que recuerdo.",audio:"../musica/cancion-3.mp3"},
+  4:{title:"Una amistad",text:"No espero que recuperemos exactamente la confianza de antes ni que olvidemos lo que ocurrió. Simplemente me gustaría que, si algún día se da la oportunidad, podamos conversar, solo hablar, así sea para pasar el tiempo.",audio:"../musica/cancion-4.mp3"},
+  5:{title:"Sin arrepentimientos",text:"No me arrepiento de haberte conocido, de haber compartido momentos contigo ni de haber sentido lo que sentí. Aunque nuestra historia haya tomado un rumbo diferente al que alguna vez imaginé, me alegra que hayas formado parte de ella. Te deseo muchas cosas bonitas, señora Watts.",audio:"../musica/cancion-5.mp3"}
+};
